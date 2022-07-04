@@ -1,0 +1,9 @@
+scoreboard objectives add Air air
+scoreboard objectives add Armor armor
+scoreboard objectives add DeathCount deathCount
+scoreboard objectives add Food food
+scoreboard objectives add Health health
+scoreboard objectives add Level level
+scoreboard objectives add PlayerKillCount playerKillCount
+scoreboard objectives add TotalKillCount totalKillCount
+scoreboard objectives add Xp xp

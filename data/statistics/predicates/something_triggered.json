@@ -1,0 +1,45 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "minecraft:reference",
+			"name": "statistics:single"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "statistics:custom"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "statistics:used"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "statistics:mined"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "statistics:crafted"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "statistics:broken"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "statistics:picked_up"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "statistics:dropped"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "statistics:killed"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "statistics:killed_by"
+		}
+	]
+}

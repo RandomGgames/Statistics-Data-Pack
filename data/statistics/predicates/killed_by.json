@@ -1,0 +1,1931 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txAreaEftCloud": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txAreaEftCloud": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txArmorStand": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txArmorStand": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txArrow": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txArrow": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txBat": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txBat": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txBee": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txBee": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txBlaze": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txBlaze": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txBoat": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txBoat": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txCat": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txCat": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txCaveSpdr": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txCaveSpdr": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txChestMcrt": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txChestMcrt": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txChicken": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txChicken": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txCmdMcrt": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txCmdMcrt": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txCod": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txCod": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txCow": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txCow": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txCrepr": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txCrepr": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txDolphin": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txDolphin": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txDonkey": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txDonkey": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txDragonFreball": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txDragonFreball": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txDrowned": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txDrowned": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEgg": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEgg": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txElderGrdn": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txElderGrdn": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEndCrystal": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEndCrystal": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEnderDragon": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEnderDragon": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEnderman": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEnderman": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEndermite": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEndermite": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEnderPearl": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEnderPearl": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEvoker": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEvoker": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEvokerFgs": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEvokerFgs": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txExpBottle": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txExpBottle": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txExpOrb": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txExpOrb": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEyeOfEnder": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txEyeOfEnder": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txFallingBlock": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txFallingBlock": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txFishingBobber": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txFishingBobber": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txFox": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txFox": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txFreball": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txFreball": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txFreworkRocket": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txFreworkRocket": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txFrnceMcrt": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txFrnceMcrt": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txGhast": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txGhast": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txGiant": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txGiant": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txGrdn": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txGrdn": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txHoglin": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txHoglin": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txHopperMcrt": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txHopperMcrt": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txHorse": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txHorse": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txHusk": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txHusk": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txIllusioner": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txIllusioner": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txIronGolem": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txIronGolem": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txItem": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txItem": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txItemFrame": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txItemFrame": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txLeashKnot": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txLeashKnot": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txLlama": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txLlama": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txLlamaSpit": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txLlamaSpit": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txLteningBolt": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txLteningBolt": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txMagmaCube": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txMagmaCube": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txMcrt": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txMcrt": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txMooshroom": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txMooshroom": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txMule": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txMule": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txOcelot": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txOcelot": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPainting": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPainting": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPanda": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPanda": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txParrot": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txParrot": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPhntm": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPhntm": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPig": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPig": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPiglin": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPiglin": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPiglinBrute": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPiglinBrute": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPillager": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPillager": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPolarBear": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPolarBear": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPot": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPot": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPufferfish": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txPufferfish": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txRabbit": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txRabbit": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txRavager": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txRavager": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSalmon": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSalmon": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSheep": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSheep": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txShlkr": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txShlkr": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txShlkrBullet": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txShlkrBullet": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSilverfish": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSilverfish": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSklt": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSklt": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSkltHorse": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSkltHorse": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSlime": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSlime": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSmallFreball": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSmallFreball": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSnowball": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSnowball": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSnowGolem": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSnowGolem": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSpawnerMcrt": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSpawnerMcrt": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSpdr": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSpdr": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSpectralArrow": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSpectralArrow": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSquid": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txSquid": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txStray": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txStray": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txStrider": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txStrider": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txTnt": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txTnt": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txTntMcrt": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txTntMcrt": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txTraderLlama": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txTraderLlama": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txTrident": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txTrident": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txTrpclFish": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txTrpclFish": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txTurtle": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txTurtle": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txVex": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txVex": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txVindicator": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txVindicator": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txVlgr": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txVlgr": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txWitch": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txWitch": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txWndgTrader": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txWndgTrader": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txWolf": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txWolf": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txWthr": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txWthr": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txWthrSkl": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txWthrSkl": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txWtrSklt": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txWtrSklt": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txZmbPiglin": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txZmbPiglin": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txZoglin": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txZoglin": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txZombie": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txZombie": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txZombieHorse": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txZombieHorse": {
+					"min": 1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txZombieVlgr": {
+					"max": -1
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_scores",
+			"entity": "this",
+			"scores": {
+				"txZombieVlgr": {
+					"min": 1
+				}
+			}
+		}
+	]
+}
