@@ -34,55 +34,54 @@ for i, object in enumerate(data):
 	
 	object = {
 		"id": object[0],
-		"name": object[1],
-		"single": object[2],
-		"custom": object[3],
-		"mined": object[4],
-		"broken": object[5],
-		"crafted": object[6],
-		"used": object[7],
-		"picked_up": object[8],
-		"dropped": object[9],
-		"killed": object[10],
-		"killed_by": object[11],
+		"single": object[1],
+		"custom": object[2],
+		"mined": object[3],
+		"broken": object[4],
+		"crafted": object[5],
+		"used": object[6],
+		"picked_up": object[7],
+		"dropped": object[8],
+		"killed": object[9],
+		"killed_by": object[10],
 	}
 
 	if object["single"]:
-		add_objective.write(f"scoreboard objectives add {object['name']} {object['id']}\n")
-		remove_objective.write(f"scoreboard objectives remove {object['name']}\n")
+		add_objective.write(f"scoreboard objectives add {object['id']} {object['id']}\n")
+		remove_objective.write(f"scoreboard objectives remove {object['id']}\n")
 
 	if object["custom"]:
-		add_objective.write(f"scoreboard objectives add {object['name']} minecraft.custom:minecraft.{object['id']}\n")
-		remove_objective.write(f"scoreboard objectives remove {object['name']}\n")
+		add_objective.write(f"scoreboard objectives add {object['id']} minecraft.custom:minecraft.{object['id']}\n")
+		remove_objective.write(f"scoreboard objectives remove {object['id']}\n")
 
 	if object["mined"]:
-		add_objective.write(f"scoreboard objectives add m{object['name']} minecraft.mined:minecraft.{object['id']}\n")
-		remove_objective.write(f"scoreboard objectives remove m{object['name']}\n")
+		add_objective.write(f"scoreboard objectives add mined_minecraft.{object['id']} minecraft.mined:minecraft.{object['id']}\n")
+		remove_objective.write(f"scoreboard objectives remove mined_minecraft.{object['id']}\n")
 
 	if object["used"]:
-		add_objective.write(f"scoreboard objectives add u{object['name']} minecraft.used:minecraft.{object['id']}\n")
-		remove_objective.write(f"scoreboard objectives remove u{object['name']}\n")
+		add_objective.write(f"scoreboard objectives add used_minecraft.{object['id']} minecraft.used:minecraft.{object['id']}\n")
+		remove_objective.write(f"scoreboard objectives remove used_minecraft.{object['id']}\n")
 	
 	if object["crafted"]:
-		add_objective.write(f"scoreboard objectives add c{object['name']} minecraft.crafted:minecraft.{object['id']}\n")
-		remove_objective.write(f"scoreboard objectives remove c{object['name']}\n")
+		add_objective.write(f"scoreboard objectives add crafted_minecraft.{object['id']} minecraft.crafted:minecraft.{object['id']}\n")
+		remove_objective.write(f"scoreboard objectives remove crafted_minecraft.{object['id']}\n")
 	
 	if object["broken"]:
-		add_objective.write(f"scoreboard objectives add b{object['name']} minecraft.broken:minecraft.{object['id']}\n")
-		remove_objective.write(f"scoreboard objectives remove b{object['name']}\n")
+		add_objective.write(f"scoreboard objectives add broken_minecraft.{object['id']} minecraft.broken:minecraft.{object['id']}\n")
+		remove_objective.write(f"scoreboard objectives remove broken_minecraft.{object['id']}\n")
 	
 	if object["picked_up"]:
-		add_objective.write(f"scoreboard objectives add p{object['name']} minecraft.picked_up:minecraft.{object['id']}\n")
-		remove_objective.write(f"scoreboard objectives remove p{object['name']}\n")
+		add_objective.write(f"scoreboard objectives add picked_up_minecraft.{object['id']} minecraft.picked_up:minecraft.{object['id']}\n")
+		remove_objective.write(f"scoreboard objectives remove picked_up_minecraft.{object['id']}\n")
 	
 	if object["dropped"]:
-		add_objective.write(f"scoreboard objectives add d{object['name']} minecraft.dropped:minecraft.{object['id']}\n")
-		remove_objective.write(f"scoreboard objectives remove d{object['name']}\n")
+		add_objective.write(f"scoreboard objectives add dropped_minecraft.{object['id']} minecraft.dropped:minecraft.{object['id']}\n")
+		remove_objective.write(f"scoreboard objectives remove dropped_minecraft.{object['id']}\n")
 
 	if object["killed"]:
-		add_objective.write(f"scoreboard objectives add k{object['name']} minecraft.killed:minecraft.{object['id']}\n")
-		remove_objective.write(f"scoreboard objectives remove k{object['name']}\n")
+		add_objective.write(f"scoreboard objectives add killed_minecraft.{object['id']} minecraft.killed:minecraft.{object['id']}\n")
+		remove_objective.write(f"scoreboard objectives remove killed_minecraft.{object['id']}\n")
 		
 	if object["killed_by"]:
-		add_objective.write(f"scoreboard objectives add x{object['name']} minecraft.killed_by:minecraft.{object['id']}\n")
-		remove_objective.write(f"scoreboard objectives remove x{object['name']}\n")
+		add_objective.write(f"scoreboard objectives add killed_by_minecraft.{object['id']} minecraft.killed_by:minecraft.{object['id']}\n")
+		remove_objective.write(f"scoreboard objectives remove killed_by_minecraft.{object['id']}\n")
