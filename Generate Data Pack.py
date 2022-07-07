@@ -2,15 +2,14 @@ import json
 import os
 import shutil
 
-input_stats_file = "Statistics.txt"
-
 if os.path.exists("Statistics"): shutil.rmtree("Statistics")
-folders = [
+
+directories = [
 	"Statistics/data/minecraft/tags/functions",
 	"Statistics/data/statistics/functions",
 	"Statistics/data/disable/functions",
 	]
-for folder in folders:
+for folder in directories:
 	if not os.path.exists(folder):
 		os.makedirs(folder)
 
@@ -21,7 +20,7 @@ add_objective = open("Statistics/data/statistics/functions/create_objectives.mcf
 remove_objective = open("Statistics/data/statistics/functions/remove_objectives.mcfunction", "a")
 with open("Statistics/data/disable/functions/statistics.mcfunction", "w") as f: f.write(f"function statistics:remove_objectives\n\ndatapack disable \"file/Statistics\"\ndatapack disable \"file/Statistics.zip\"")
 
-with open(input_stats_file, "r") as f: data = f.read()
+with open("Statistics.txt", "r") as f: data = f.read()
 data = data.split("\n")
 if data[-1] == "": data = data[:-1]
 
