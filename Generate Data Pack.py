@@ -8,7 +8,6 @@ if os.path.exists("Statistics"): shutil.rmtree("Statistics")
 folders = [
 	"Statistics/data/minecraft/tags/functions",
 	"Statistics/data/statistics/functions",
-	"Statistics/data/minecraft/tags/functions",
 	"Statistics/data/disable/functions",
 	]
 for folder in folders:
