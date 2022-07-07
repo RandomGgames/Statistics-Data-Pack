@@ -13,7 +13,7 @@ for folder in directories:
 	if not os.path.exists(folder):
 		os.makedirs(folder)
 
-with open("Statistics/pack.mcmeta", "w") as f: json.dump({"pack": {"pack_format": 10,"description": "RandomGgames' Statistics Data Pack"}}, f, indent = "\t")
+with open("Statistics/pack.mcmeta", "w") as f: json.dump({"pack": {"pack_format": 9,"description": "RandomGgames' Statistics Data Pack"}}, f, indent = "\t")
 with open("Statistics/data/minecraft/tags/functions/load.json", "w") as f: json.dump({"values": ["statistics:load"]}, f, indent = "\t")
 with open("Statistics/data/statistics/functions/load.mcfunction", "w") as f: f.write(f"function statistics:create_objectives")
 add_objective = open("Statistics/data/statistics/functions/create_objectives.mcfunction", "a")
